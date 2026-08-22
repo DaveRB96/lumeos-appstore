@@ -3782,6 +3782,78 @@
                       "category":  "games",
                       "title":  "Zombocalypse",
                       "cover_url":  "https://ui-avatars.com/api/?name=Zombocalypse\u0026background=random\u0026color=fff\u0026size=256\u0026font-size=0.33"
+                  },
+                  {
+                      "id":  "app-photopea",
+                      "title":  "Photopea",
+                      "category":  "productivity",
+                      "description":  "Advanced image editor. A full browser-based alternative to Adobe Photoshop.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://www.photopea.com",
+                      "cover_url":  "https://play-lh.googleusercontent.com/W2Crb0cW5gK_45W6_f4D0-hF_9_3G4mH0O6J0N4E6R5K_G2C_4R_4P4v_5L5Q4U2I"
+                  },
+                  {
+                      "id":  "app-audiomass",
+                      "title":  "AudioMass",
+                      "category":  "productivity",
+                      "description":  "A free, full-featured web-based digital audio workstation and audio editor.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://audiomass.co",
+                      "cover_url":  "https://ui-avatars.com/api/?name=Audio+Mass\u0026background=18181b\u0026color=ef4444\u0026size=256"
+                  },
+                  {
+                      "id":  "app-excalidraw",
+                      "title":  "Excalidraw",
+                      "category":  "productivity",
+                      "description":  "Virtual whiteboard for sketching hand-drawn like diagrams and notes.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://excalidraw.com",
+                      "cover_url":  "https://ui-avatars.com/api/?name=Excalidraw\u0026background=6965db\u0026color=fff\u0026size=256"
+                  },
+                  {
+                      "id":  "app-stackedit",
+                      "title":  "StackEdit",
+                      "category":  "productivity",
+                      "description":  "In-browser Markdown editor with rich text formatting and syncing capabilities.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://stackedit.io/app",
+                      "cover_url":  "https://ui-avatars.com/api/?name=Stack+Edit\u0026background=0e111a\u0026color=4285f4\u0026size=256"
+                  },
+                  {
+                      "id":  "app-vscode-web",
+                      "title":  "VS Code for Web",
+                      "category":  "productivity",
+                      "description":  "The official Visual Studio Code engine running entirely in your browser.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://vscode.dev",
+                      "cover_url":  "https://ui-avatars.com/api/?name=VS+Code\u0026background=0066b8\u0026color=fff\u0026size=256"
+                  },
+                  {
+                      "id":  "app-pdfjs",
+                      "title":  "PDF Viewer",
+                      "category":  "productivity",
+                      "description":  "Mozilla\u0027s lightning-fast, secure PDF document reader.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://mozilla.github.io/pdf.js/web/viewer.html",
+                      "cover_url":  "https://ui-avatars.com/api/?name=PDF+Viewer\u0026background=dc2626\u0026color=fff\u0026size=256"
+                  },
+                  {
+                      "id":  "app-voicerecorder",
+                      "title":  "Voice Recorder",
+                      "category":  "productivity",
+                      "description":  "Simple utility to record voice memos from your microphone and save them as audio files.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://online-voice-recorder.com",
+                      "cover_url":  "https://ui-avatars.com/api/?name=Voice+Recorder\u0026background=10b981\u0026color=fff\u0026size=256"
+                  },
+                  {
+                      "id":  "app-pomofocus",
+                      "title":  "Pomodoro Timer",
+                      "category":  "productivity",
+                      "description":  "Customizable focus timer to help you manage work sessions and improve productivity.",
+                      "file_size":  "Cloud",
+                      "download_url":  "https://pomofocus.io",
+                      "cover_url":  "https://ui-avatars.com/api/?name=Pomofocus\u0026background=ef4444\u0026color=fff\u0026size=256"
                   }
               ]
 }

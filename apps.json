@@ -1,0 +1,14 @@
+{
+  "store_version": "1.0",
+  "items": [
+    {
+      "id": "game-geometry-dash",
+      "type": "game",
+      "title": "Geometry Dash Lite",
+      "description": "Rhythm-based platforming action",
+      "file_size": "12 MB",
+      "cover_url": "https://images.launchbox-app.com/54230388-d3e1-441e-85a9-be14ad0848dd.jpg",
+      "download_url": "https://raw.githubusercontent.com/DaveRB96/lumeos-appstore/main/games/GeometryDash.html"
+    }
+  ]
+}
